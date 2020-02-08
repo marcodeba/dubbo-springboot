@@ -1,7 +1,7 @@
 package com.marco.provider.service.impl;
 
-import com.alibaba.dubbo.config.annotation.Service;
 import com.marco.api.service.DemoService;
+import org.apache.dubbo.config.annotation.Service;
 
 @Service(version = "${demo.service.version}")
 public class DemoServiceImpl implements DemoService {
