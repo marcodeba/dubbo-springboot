@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: dubbo-provider
+server:
+  port: 8081
+dubbo:
+  application:
+    name: dubbo-provider
+  protocol:
+    port: 20880
+    name: dubbo
+  registry:
+    address: zookeeper://localhost:2181
+  provider:
+    timeout: 1000
+  scan:
+    base-packages: com.marco.provider
+  config-center:
+    address: zookeeper://localhost:2181
+    app-name: springboot-dubbo-provider
