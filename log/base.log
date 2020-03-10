@@ -1,63 +1,56 @@
-2020-03-09 17:10:04,151 INFO (StartupInfoLogger.java:50)- Starting DubboProviderApplication on marcopan-MacBook-Pro-1156.local with PID 43957 (/Users/marcopan/mysourcecode/dubbo-springboot/dubbo-provider/target/classes started by marcopan in /Users/marcopan/mysourcecode/dubbo-springboot)
-2020-03-09 17:10:04,152 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
-2020-03-09 17:10:04,153 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
-2020-03-09 17:10:07,707 INFO (StartupInfoLogger.java:59)- Started DubboProviderApplication in 4.022 seconds (JVM running for 5.057)
-2020-03-09 17:10:52,095 INFO (StartupInfoLogger.java:50)- Starting DubboConsumerApplication on marcopan-MacBook-Pro-1156.local with PID 43961 (/Users/marcopan/mysourcecode/dubbo-springboot/dubbo-consumer/target/classes started by marcopan in /Users/marcopan/mysourcecode/dubbo-springboot)
-2020-03-09 17:10:52,097 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
-2020-03-09 17:10:52,107 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
-2020-03-09 17:10:55,471 INFO (StartupInfoLogger.java:59)- Started DubboConsumerApplication in 3.923 seconds (JVM running for 5.128)
-2020-03-09 17:12:43,504 INFO (StartupInfoLogger.java:50)- Starting DubboProviderApplication on marcopan-MacBook-Pro-1156.local with PID 43976 (/Users/marcopan/mysourcecode/dubbo-springboot/dubbo-provider/target/classes started by marcopan in /Users/marcopan/mysourcecode/dubbo-springboot)
-2020-03-09 17:12:43,505 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
-2020-03-09 17:12:43,506 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
-2020-03-09 17:12:46,375 INFO (StartupInfoLogger.java:59)- Started DubboProviderApplication in 3.223 seconds (JVM running for 4.247)
-2020-03-09 17:13:01,903 INFO (StartupInfoLogger.java:50)- Starting DubboConsumerApplication on marcopan-MacBook-Pro-1156.local with PID 43978 (/Users/marcopan/mysourcecode/dubbo-springboot/dubbo-consumer/target/classes started by marcopan in /Users/marcopan/mysourcecode/dubbo-springboot)
-2020-03-09 17:13:01,904 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
-2020-03-09 17:13:01,905 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
-2020-03-09 17:13:05,353 INFO (StartupInfoLogger.java:59)- Started DubboConsumerApplication in 3.849 seconds (JVM running for 4.925)
-2020-03-09 17:21:02,191 INFO (StartupInfoLogger.java:50)- Starting DubboProviderApplication on marcopan-MacBook-Pro-1156.local with PID 44071 (/Users/marcopan/mysourcecode/dubbo-springboot/dubbo-provider/target/classes started by marcopan in /Users/marcopan/mysourcecode/dubbo-springboot)
-2020-03-09 17:21:02,192 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
-2020-03-09 17:21:02,196 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
-2020-03-09 17:21:05,847 INFO (StartupInfoLogger.java:59)- Started DubboProviderApplication in 4.671 seconds (JVM running for 6.026)
-2020-03-09 17:21:12,006 INFO (StartupInfoLogger.java:50)- Starting DubboConsumerApplication on marcopan-MacBook-Pro-1156.local with PID 44074 (/Users/marcopan/mysourcecode/dubbo-springboot/dubbo-consumer/target/classes started by marcopan in /Users/marcopan/mysourcecode/dubbo-springboot)
-2020-03-09 17:21:12,008 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
-2020-03-09 17:21:12,009 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
-2020-03-09 17:21:15,517 INFO (StartupInfoLogger.java:59)- Started DubboConsumerApplication in 3.946 seconds (JVM running for 4.899)
-2020-03-09 17:29:51,080 INFO (StartupInfoLogger.java:50)- Starting DubboProviderApplication on marcopan-MacBook-Pro-1156.local with PID 44147 (/Users/marcopan/mysourcecode/dubbo-springboot/dubbo-provider/target/classes started by marcopan in /Users/marcopan/mysourcecode/dubbo-springboot)
-2020-03-09 17:29:51,081 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
-2020-03-09 17:29:51,082 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
-2020-03-09 17:29:54,337 INFO (StartupInfoLogger.java:59)- Started DubboProviderApplication in 3.842 seconds (JVM running for 4.848)
-2020-03-09 17:30:05,972 INFO (StartupInfoLogger.java:50)- Starting DubboConsumerApplication on marcopan-MacBook-Pro-1156.local with PID 44150 (/Users/marcopan/mysourcecode/dubbo-springboot/dubbo-consumer/target/classes started by marcopan in /Users/marcopan/mysourcecode/dubbo-springboot)
-2020-03-09 17:30:05,974 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
-2020-03-09 17:30:05,975 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
-2020-03-09 17:30:09,523 INFO (StartupInfoLogger.java:59)- Started DubboConsumerApplication in 3.929 seconds (JVM running for 4.882)
-2020-03-09 19:51:44,223 INFO (StartupInfoLogger.java:50)- Starting DubboProviderApplication on marcopan-MacBook-Pro-1156.local with PID 44649 (/Users/marcopan/mysourcecode/dubbo-springboot/dubbo-provider/target/classes started by marcopan in /Users/marcopan/mysourcecode/dubbo-springboot)
-2020-03-09 19:51:44,225 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
-2020-03-09 19:51:44,227 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
-2020-03-09 19:52:08,593 INFO (StartupInfoLogger.java:50)- Starting DubboProviderApplication on marcopan-MacBook-Pro-1156.local with PID 44654 (/Users/marcopan/mysourcecode/dubbo-springboot/dubbo-provider/target/classes started by marcopan in /Users/marcopan/mysourcecode/dubbo-springboot)
-2020-03-09 19:52:08,594 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
-2020-03-09 19:52:08,597 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
-2020-03-09 19:52:11,804 INFO (StartupInfoLogger.java:59)- Started DubboProviderApplication in 4.007 seconds (JVM running for 5.132)
-2020-03-09 22:54:01,499 INFO (StartupInfoLogger.java:50)- Starting DubboProviderApplication on marcopan-MacBook-Pro-1156.local with PID 45311 (/Users/marcopan/mysourcecode/dubbo-springboot/dubbo-provider/target/classes started by marcopan in /Users/marcopan/mysourcecode/dubbo-springboot)
-2020-03-09 22:54:01,500 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
-2020-03-09 22:54:01,501 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
-2020-03-09 22:54:05,689 INFO (StartupInfoLogger.java:59)- Started DubboProviderApplication in 4.646 seconds (JVM running for 5.828)
-2020-03-09 22:54:25,363 INFO (StartupInfoLogger.java:50)- Starting DubboConsumerApplication on marcopan-MacBook-Pro-1156.local with PID 45315 (/Users/marcopan/mysourcecode/dubbo-springboot/dubbo-consumer/target/classes started by marcopan in /Users/marcopan/mysourcecode/dubbo-springboot)
-2020-03-09 22:54:25,364 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
-2020-03-09 22:54:25,365 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
-2020-03-09 22:54:28,675 INFO (StartupInfoLogger.java:59)- Started DubboConsumerApplication in 3.683 seconds (JVM running for 4.646)
-2020-03-09 22:59:41,654 INFO (StartupInfoLogger.java:50)- Starting DubboProviderApplication on marcopan-MacBook-Pro-1156.local with PID 45329 (/Users/marcopan/mysourcecode/dubbo-springboot/dubbo-provider/target/classes started by marcopan in /Users/marcopan/mysourcecode/dubbo-springboot)
-2020-03-09 22:59:41,655 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
-2020-03-09 22:59:41,656 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
-2020-03-09 22:59:45,365 INFO (StartupInfoLogger.java:59)- Started DubboProviderApplication in 4.083 seconds (JVM running for 5.087)
-2020-03-09 22:59:52,974 INFO (StartupInfoLogger.java:50)- Starting DubboConsumerApplication on marcopan-MacBook-Pro-1156.local with PID 45332 (/Users/marcopan/mysourcecode/dubbo-springboot/dubbo-consumer/target/classes started by marcopan in /Users/marcopan/mysourcecode/dubbo-springboot)
-2020-03-09 22:59:52,975 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
-2020-03-09 22:59:52,976 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
-2020-03-09 22:59:56,662 INFO (StartupInfoLogger.java:59)- Started DubboConsumerApplication in 4.05 seconds (JVM running for 5.006)
-2020-03-09 23:13:21,222 INFO (StartupInfoLogger.java:50)- Starting DubboProviderApplication on marcopan-MacBook-Pro-1156.local with PID 45355 (/Users/marcopan/mysourcecode/dubbo-springboot/dubbo-provider/target/classes started by marcopan in /Users/marcopan/mysourcecode/dubbo-springboot)
-2020-03-09 23:13:21,223 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
-2020-03-09 23:13:21,224 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
-2020-03-09 23:13:24,154 INFO (StartupInfoLogger.java:59)- Started DubboProviderApplication in 3.272 seconds (JVM running for 4.37)
-2020-03-09 23:13:30,273 INFO (StartupInfoLogger.java:50)- Starting DubboConsumerApplication on marcopan-MacBook-Pro-1156.local with PID 45357 (/Users/marcopan/mysourcecode/dubbo-springboot/dubbo-consumer/target/classes started by marcopan in /Users/marcopan/mysourcecode/dubbo-springboot)
-2020-03-09 23:13:30,274 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
-2020-03-09 23:13:30,275 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
-2020-03-09 23:13:33,545 INFO (StartupInfoLogger.java:59)- Started DubboConsumerApplication in 3.666 seconds (JVM running for 4.572)
+2020-03-10 07:51:55,686 INFO (StartupInfoLogger.java:50)- Starting DubboProviderApplication on marcopan-MacBook-Pro-1156.local with PID 45806 (/Users/marcopan/mysourcecode/dubbo-springboot/dubbo-provider/target/classes started by marcopan in /Users/marcopan/mysourcecode/dubbo-springboot)
+2020-03-10 07:51:55,690 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2020-03-10 07:51:55,692 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2020-03-10 07:51:59,369 INFO (StartupInfoLogger.java:59)- Started DubboProviderApplication in 4.487 seconds (JVM running for 5.654)
+2020-03-10 07:52:51,409 INFO (StartupInfoLogger.java:50)- Starting DubboConsumerApplication on marcopan-MacBook-Pro-1156.local with PID 45816 (/Users/marcopan/mysourcecode/dubbo-springboot/dubbo-consumer/target/classes started by marcopan in /Users/marcopan/mysourcecode/dubbo-springboot)
+2020-03-10 07:52:51,434 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2020-03-10 07:52:51,446 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2020-03-10 07:52:54,444 INFO (StartupInfoLogger.java:59)- Started DubboConsumerApplication in 3.621 seconds (JVM running for 4.684)
+2020-03-10 11:20:39,399 INFO (StartupInfoLogger.java:50)- Starting DubboProviderApplication on marcopan-MacBook-Pro-1156.local with PID 46206 (/Users/marcopan/mysourcecode/dubbo-springboot/dubbo-provider/target/classes started by marcopan in /Users/marcopan/mysourcecode/dubbo-springboot)
+2020-03-10 11:20:39,400 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2020-03-10 11:20:39,402 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2020-03-10 11:20:42,865 INFO (StartupInfoLogger.java:59)- Started DubboProviderApplication in 4.291 seconds (JVM running for 6.395)
+2020-03-10 11:21:18,546 INFO (StartupInfoLogger.java:50)- Starting DubboConsumerApplication on marcopan-MacBook-Pro-1156.local with PID 46209 (/Users/marcopan/mysourcecode/dubbo-springboot/dubbo-consumer/target/classes started by marcopan in /Users/marcopan/mysourcecode/dubbo-springboot)
+2020-03-10 11:21:18,547 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2020-03-10 11:21:18,548 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2020-03-10 11:21:21,582 INFO (StartupInfoLogger.java:59)- Started DubboConsumerApplication in 3.716 seconds (JVM running for 5.411)
+2020-03-10 11:27:58,473 INFO (StartupInfoLogger.java:50)- Starting DubboProviderApplication on marcopan-MacBook-Pro-1156.local with PID 46311 (/Users/marcopan/mysourcecode/dubbo-springboot/dubbo-provider/target/classes started by marcopan in /Users/marcopan/mysourcecode/dubbo-springboot)
+2020-03-10 11:27:58,475 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2020-03-10 11:27:58,476 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2020-03-10 11:28:01,673 INFO (StartupInfoLogger.java:59)- Started DubboProviderApplication in 3.557 seconds (JVM running for 4.622)
+2020-03-10 11:31:42,155 INFO (StartupInfoLogger.java:50)- Starting DubboProviderApplication on marcopan-MacBook-Pro-1156.local with PID 46319 (/Users/marcopan/mysourcecode/dubbo-springboot/dubbo-provider/target/classes started by marcopan in /Users/marcopan/mysourcecode/dubbo-springboot)
+2020-03-10 11:31:42,156 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2020-03-10 11:31:42,156 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2020-03-10 11:31:44,879 INFO (StartupInfoLogger.java:59)- Started DubboProviderApplication in 3.375 seconds (JVM running for 5.505)
+2020-03-10 11:32:24,180 INFO (StartupInfoLogger.java:50)- Starting DubboConsumerApplication on marcopan-MacBook-Pro-1156.local with PID 46321 (/Users/marcopan/mysourcecode/dubbo-springboot/dubbo-consumer/target/classes started by marcopan in /Users/marcopan/mysourcecode/dubbo-springboot)
+2020-03-10 11:32:24,181 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2020-03-10 11:32:24,183 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2020-03-10 11:32:27,256 INFO (StartupInfoLogger.java:59)- Started DubboConsumerApplication in 3.529 seconds (JVM running for 4.437)
+2020-03-10 12:55:11,512 INFO (StartupInfoLogger.java:50)- Starting DubboProviderApplication on marcopan-MacBook-Pro-1156.local with PID 46703 (/Users/marcopan/mysourcecode/dubbo-springboot/dubbo-provider/target/classes started by marcopan in /Users/marcopan/mysourcecode/dubbo-springboot)
+2020-03-10 12:55:11,514 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2020-03-10 12:55:11,515 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2020-03-10 12:55:42,761 INFO (StartupInfoLogger.java:59)- Started DubboProviderApplication in 32.344 seconds (JVM running for 34.694)
+2020-03-10 12:55:57,312 INFO (StartupInfoLogger.java:50)- Starting DubboProviderApplication on marcopan-MacBook-Pro-1156.local with PID 46726 (/Users/marcopan/mysourcecode/dubbo-springboot/dubbo-provider/target/classes started by marcopan in /Users/marcopan/mysourcecode/dubbo-springboot)
+2020-03-10 12:55:57,313 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2020-03-10 12:55:57,314 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2020-03-10 12:56:01,020 INFO (StartupInfoLogger.java:59)- Started DubboProviderApplication in 4.703 seconds (JVM running for 6.169)
+2020-03-10 12:56:07,454 INFO (StartupInfoLogger.java:50)- Starting DubboConsumerApplication on marcopan-MacBook-Pro-1156.local with PID 46728 (/Users/marcopan/mysourcecode/dubbo-springboot/dubbo-consumer/target/classes started by marcopan in /Users/marcopan/mysourcecode/dubbo-springboot)
+2020-03-10 12:56:07,460 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2020-03-10 12:56:07,462 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2020-03-10 12:56:10,684 INFO (StartupInfoLogger.java:59)- Started DubboConsumerApplication in 3.792 seconds (JVM running for 4.803)
+2020-03-10 13:00:15,039 INFO (StartupInfoLogger.java:50)- Starting DubboProviderApplication on marcopan-MacBook-Pro-1156.local with PID 46761 (/Users/marcopan/mysourcecode/dubbo-springboot/dubbo-provider/target/classes started by marcopan in /Users/marcopan/mysourcecode/dubbo-springboot)
+2020-03-10 13:00:15,041 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2020-03-10 13:00:15,051 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2020-03-10 13:00:19,684 INFO (StartupInfoLogger.java:59)- Started DubboProviderApplication in 5.392 seconds (JVM running for 6.86)
+2020-03-10 13:00:28,148 INFO (StartupInfoLogger.java:50)- Starting DubboConsumerApplication on marcopan-MacBook-Pro-1156.local with PID 46763 (/Users/marcopan/mysourcecode/dubbo-springboot/dubbo-consumer/target/classes started by marcopan in /Users/marcopan/mysourcecode/dubbo-springboot)
+2020-03-10 13:00:28,149 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2020-03-10 13:00:28,150 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2020-03-10 13:00:30,816 INFO (StartupInfoLogger.java:59)- Started DubboConsumerApplication in 3.111 seconds (JVM running for 5.057)
+2020-03-10 13:04:12,291 INFO (StartupInfoLogger.java:50)- Starting DubboProviderApplication on marcopan-MacBook-Pro-1156.local with PID 46774 (/Users/marcopan/mysourcecode/dubbo-springboot/dubbo-provider/target/classes started by marcopan in /Users/marcopan/mysourcecode/dubbo-springboot)
+2020-03-10 13:04:12,292 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2020-03-10 13:04:12,293 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2020-03-10 13:04:15,420 INFO (StartupInfoLogger.java:59)- Started DubboProviderApplication in 3.585 seconds (JVM running for 4.817)
+2020-03-10 13:04:23,733 INFO (StartupInfoLogger.java:50)- Starting DubboConsumerApplication on marcopan-MacBook-Pro-1156.local with PID 46776 (/Users/marcopan/mysourcecode/dubbo-springboot/dubbo-consumer/target/classes started by marcopan in /Users/marcopan/mysourcecode/dubbo-springboot)
+2020-03-10 13:04:23,734 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2020-03-10 13:04:23,735 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2020-03-10 13:04:27,146 INFO (StartupInfoLogger.java:59)- Started DubboConsumerApplication in 4.136 seconds (JVM running for 5.496)

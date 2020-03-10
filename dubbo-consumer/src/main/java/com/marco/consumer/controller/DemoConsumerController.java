@@ -8,8 +8,10 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class DemoConsumerController {
-
-    @Reference//(version = "${demo.service.version}")
+    //相当于<dubbo:reference/>
+    @Reference(loadbalance = "random", cluster = "failfast",
+            mock = "com.marco.consumer.mock.SayHelloServiceMock",
+            timeout = 1)
     private DemoService demoService;
 
     @GetMapping(value = "/sayHello/{name}")
